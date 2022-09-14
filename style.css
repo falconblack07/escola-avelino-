@@ -1,0 +1,32 @@
+body {
+    background-image: linear-gradient(to top, #0b5f5b, #238a85,#27e2e2 );
+    background-attachment: fixed;
+}
+
+.letra20 {
+    font-family: 'EB Garamond', serif;
+    font-size: 20px;
+}
+
+.letra25 {
+    font-size: 25px;
+}
+
+.fonteCinza {
+    color: rgb(0, 92, 61);
+    font-family: 'DynaPuff', cursive;
+    font-family: 'EB Garamond', serif;
+    font-size: 45px;
+}
+
+.image0 {
+    width: 65%;
+    height: 4%;
+    border: solid #34caf0 10px;
+}
+
+.letra60 {
+    font-family: 'Abril Fatface', cursive;
+    font-size: 55;
+    color: linear-gradient(to top,#10E614,#05FC92,#81E7F5 );
+}
